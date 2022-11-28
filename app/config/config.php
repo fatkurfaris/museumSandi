@@ -11,4 +11,4 @@ define('CSSADMIN', 'http://localhost/museumSandi/public/css/admin/style.css');
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'museumsandi');
+define('DB_NAME', 'museum_sandi');

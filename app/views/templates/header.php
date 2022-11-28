@@ -9,28 +9,12 @@
     <link href="<?= BOOTS ?>" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <!-- <link type="text/css" href="<?= CSS ?>" rel="stylesheet"> -->
     <link type="text/css" href="<?= HOMEUSER ?>/css/styles.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="<?= HOMEUSER ?>/img/favicon.ico" />
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+    <link href="<?= HOMEUSER ?>/css/user/styles2.css" rel="stylesheet" />
+
 </head>
 
 <body>
-
-    <nav class="navbar navbar-expand-lg bg-light">
-        <div class="container">
-            <a class="navbar-brand" href="#">Museum Sandi</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="<?= HOMEUSER; ?>">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="<?= HOMEUSER; ?>/About">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="<?= HOMEUSER; ?>/Login">Login</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
